@@ -1,18 +1,29 @@
-## Getting Started
+O objetivo do projeto foi praticar lógica de programação, manipulação gráfica, orientação a objetos e funcionamento de jogos em tempo real utilizando Java Swing.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+O jogo possui:
+• Sistema de gravidade
+• Movimentação do personagem via teclado
+• Geração dinâmica de obstáculos
+• Sistema de colisão
+• Contador de pontos
+• Reinício da partida após Game Over
+• Loop contínuo de renderização e atualização do jogo
+Durante o desenvolvimento, consegui aprofundar conhecimentos em:
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Estruturação de aplicações desktop
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Manipulação de eventos
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Lógica de jogos 2D
+
+
+Atualização gráfica em tempo real
+
+
+Organização de código orientado a objetos
+
+
